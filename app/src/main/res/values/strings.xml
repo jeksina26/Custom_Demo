@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom_Demo</string>
+
+    <string name="orange">orange</string>
+    <string name="pink">pink</string>
+    <string name="yellow">yellow</string>
+    <string name="black">black</string>
+    <string name="white">white</string>
+
+</resources>
